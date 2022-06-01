@@ -3,6 +3,9 @@
 ## Language
 Java
 
+##  Run Spring Boot application
+mvn spring-boot:run
+
 
 Installation Directory: /Library/PostgreSQL/14
 Server Installation Directory: /Library/PostgreSQL/14
